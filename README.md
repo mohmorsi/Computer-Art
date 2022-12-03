@@ -30,7 +30,7 @@
 ## License
 GPL-3.0 License
 
-Copyright (c) 2021 Mohamed Morsi
+Copyright (c) 2022 Mohamed Morsi
 
 ## Contributors
 Mohamed Morsi
