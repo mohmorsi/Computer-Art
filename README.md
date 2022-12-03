@@ -15,18 +15,10 @@
 
 
 ## Table of Contents
-* [Introduction](#introduction) 
 * [Demo](#demo)
-* [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
-
-
-## Introduction
-
-
-## Usage
 
 
 ## Demo
